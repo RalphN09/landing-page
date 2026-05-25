@@ -24,7 +24,11 @@ All images and illustrations used in this project are credited to their respecti
 * **Hero Image/Placeholder:** Photo by <a href="https://unsplash.com/@dengxiangs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Deng Xiang</a> on <a href="https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
 * **Feature Icons/Images:**
-    * Icon 1: [Artist/Site Name](Link to source)
-    * Icon 2: [Artist/Site Name](Link to source)
-    * Icon 3: [Artist/Site Name](Link to source)
-    * Icon 4: [Artist/Site Name](Link to source)
+    * Icon 1: Photo by <a href="https://unsplash.com/@dhehaivan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">dhehaivan</a> on <a href="https://unsplash.com/photos/white-light-bulb-turned-on-in-dark-room-FXCvslpSeUY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+    * Icon 2: Photo by <a href="https://unsplash.com/@andreicastanha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrei Castanha</a> on <a href="https://unsplash.com/photos/a-black-background-with-an-abstract-design-pPNu29bnozs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+    * Icon 3: Photo by <a href="https://unsplash.com/@andreicastanha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrei Castanha</a> on <a href="https://unsplash.com/photos/a-black-background-with-an-abstract-design-pPNu29bnozs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+    * Icon 4: Photo by <a href="https://unsplash.com/@aimha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Boragine</a> on <a href="https://unsplash.com/photos/two-metallic-curved-shapes-intersecting-on-black-background-KOxaqurx9gQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
