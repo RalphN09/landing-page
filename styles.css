@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar, .main-container{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+}
+
+.navbar{
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: small;
+}
